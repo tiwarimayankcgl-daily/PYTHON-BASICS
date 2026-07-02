@@ -5,6 +5,7 @@ print(fruits)
 #[] list
 
 # diff data type in the list
+# mutuble
 
 data = ["Mayank", 22 , 8.5, True]
 print(data)
