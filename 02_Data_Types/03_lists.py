@@ -1,7 +1,7 @@
 fruits = ["Apple", "Banana", "Mango", "Orange"]
 print(fruits)
 
-#list is a data type ehich is stored muiltiple values in a single variables
+#list is a data type Which is stored muiltiple values in a single variables
 #[] list
 
 # diff data type in the list
